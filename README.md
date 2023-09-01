@@ -26,4 +26,8 @@
 
 <img width="960" alt="4" src="https://github.com/ask4luv/ask4luv-powerBi/assets/138107435/4374dedb-78a9-4e2b-9c68-026b6be65f01">
 
+###### Below is the Model view of the combine Tables
+
+<img width="958" alt="5" src="https://github.com/ask4luv/ask4luv-powerBi/assets/138107435/d4e420ed-9f94-4fb9-8ed0-861a598be08b">
+
 
